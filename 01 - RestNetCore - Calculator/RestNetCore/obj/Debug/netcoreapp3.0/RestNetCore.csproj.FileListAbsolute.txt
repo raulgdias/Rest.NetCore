@@ -17,3 +17,22 @@ D:\Git\Cursos\Rest.NetCore\RestNetCore\RestNetCore\obj\Debug\netcoreapp3.0\RestN
 D:\Git\Cursos\Rest.NetCore\RestNetCore\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.RazorTargetAssemblyInfo.cache
 D:\Git\Cursos\Rest.NetCore\RestNetCore\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.dll
 D:\Git\Cursos\Rest.NetCore\RestNetCore\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.pdb
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\RestNetCore.exe
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\RestNetCore.deps.json
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\RestNetCore.runtimeconfig.json
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\RestNetCore.runtimeconfig.dev.json
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\RestNetCore.dll
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\bin\Debug\netcoreapp3.0\RestNetCore.pdb
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.csprojAssemblyReference.cache
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\staticwebassets\RestNetCore.StaticWebAssets.Manifest.cache
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\staticwebassets\RestNetCore.StaticWebAssets.xml
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.csproj.CoreCompileInputs.cache
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.AssemblyInfoInputs.cache
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.AssemblyInfo.cs
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.RazorTargetAssemblyInfo.cache
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.dll
+D:\Git\Cursos\Rest.NetCore\01 - RestNetCore - Calculator\RestNetCore\obj\Debug\netcoreapp3.0\RestNetCore.pdb
